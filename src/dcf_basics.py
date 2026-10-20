@@ -7,8 +7,6 @@ def get_user_cash_flows():
             year.append(year_cf)
     return  year
         
-cash_flow = [200, 250, 300]
-discount_rate = 0.10
 
 def calculate_total_pv(cash_flows, discount_rate):                         # defined function and its parameters  
     present_values = []                                                    # empty  list that will store the present values
@@ -19,8 +17,9 @@ def calculate_total_pv(cash_flows, discount_rate):                         # def
         print("Year:",i,"- Present Value:", pv)   
         present_values.append(pv)                                       # storing present values 
     total_pv = sum(present_values)                                          
-    return total_pv                                                         # returing value of total present value outside the function
+    return total_pv                                                         # returing value of total present value outside the function                            # Printing  Total Present Value
 
-result = calculate_total_pv(cash_flow, discount_rate)                       # calculating total present value        
-print("The Total Present Value is:",result)                                 # Printing  Total Present Value
-
+user_cash_flows = get_user_cash_flows()
+rate = float(input("Enter discount rate (e.g. 0.10): "))
+final_result = calculate_total_pv(user_cash_flows, rate)
+print("Your Total Present Value is:", final_result)
