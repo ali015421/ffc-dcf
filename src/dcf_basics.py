@@ -8,12 +8,12 @@ def get_user_cash_flows():
     return  year
         
 
-def calculate_total_pv(cash_flows, discount_rate):                         # defined function and its parameters  
+def calculate_total_pv(cash_flows, discount_rate):                         # defined function to caluculate total pv and its parameters  
     present_values = []                                                    # empty  list that will store the present values
 
-    for i , item in enumerate(cash_flows,start=1):                         # loop that will repeat, i is the counter that starts from 1
-        pv = item / (1 + discount_rate)**i
-        print("Year:",i, "- Cash FLow:", item)
+    for i , cash_flow in enumerate(cash_flows,start=1):                         # loop that will repeat, i is the counter that starts from 1
+        pv = cash_flow / (1 + discount_rate)**i
+        print("Year:",i, "- Cash FLow:", cash_flow)
         print("Year:",i,"- Present Value:", pv)   
         present_values.append(pv)                                       # storing present values 
     total_pv = sum(present_values)                                          
