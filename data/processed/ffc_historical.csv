@@ -1,0 +1,79 @@
+statement,line_item,FY2024,FY2025,source_page
+BalanceSheet,Share capital,14231086,14231086,305
+BalanceSheet,Capital reserves,28000080,28000080,305
+BalanceSheet,General reserves,8802360,8802360,305
+BalanceSheet,Unappropriated profit,80749891,84496584,305
+BalanceSheet,Surplus on remeasurement of investments,96700,53415,305
+BalanceSheet,Total equity,131880117,135583525,305
+BalanceSheet,Long term borrowings - secured,31300000,50250000,305
+BalanceSheet,Deferred taxation,7452030,7911767,305
+BalanceSheet,Compensated leave absences,2614823,3044643,305
+BalanceSheet,Total non-current liabilities,41366853,61206410,305
+BalanceSheet,Current portion of long term borrowings,6900000,11050000,305
+BalanceSheet,Trade and other payables,186051998,194053067,305
+BalanceSheet,Mark-up and profit accrued,923406,940275,305
+BalanceSheet,Short term borrowings - secured,31278908,18594647,305
+BalanceSheet,Unclaimed dividend,662885,850812,305
+BalanceSheet,Provision for taxation (current),17887555,15206397,305
+BalanceSheet,Total current liabilities,243704752,240695198,305
+BalanceSheet,Total liabilities,285071605,301901608,305
+BalanceSheet,Total equity and liabilities,416951722,437485133,305
+BalanceSheet,Property plant and equipment,58210729,76550175,306
+BalanceSheet,Intangible assets,1571651,1591378,306
+BalanceSheet,Long term investments,76780298,79070285,306
+BalanceSheet,Long term loans and advances,1785266,4529993,306
+BalanceSheet,Long term deposits and prepayments,91874,91021,306
+BalanceSheet,Total non-current assets,138439818,161832852,306
+BalanceSheet,Stores spares and loose tools,14027639,15566472,306
+BalanceSheet,Stock in trade,23744157,38229377,306
+BalanceSheet,Trade debts,943632,20153212,306
+BalanceSheet,Loans and advances (current),4617195,5682181,306
+BalanceSheet,Deposits and prepayments (current),1058628,1058747,306
+BalanceSheet,Other receivables,17746496,5163143,306
+BalanceSheet,Short term investments,203982113,181455741,306
+BalanceSheet,Cash and bank balances,12392044,8343408,306
+BalanceSheet,Total current assets,278511904,275652281,306
+BalanceSheet,Total assets,416951722,437485133,306
+P&L,Turnover - net,373536920,432410443,308
+P&L,Cost of sales,-246364351,-301799729,308
+P&L,Gross Profit,127172569,130610714,308
+P&L,Distribution cost,-29363654,-32338831,308
+P&L,Finance costs,-6523895,-6517974,308
+P&L,Other losses - Unwinding of GIDC liability,-212406,0,308
+P&L,Other losses - Loss allowance on subsidy receivable,-1203000,0,308
+P&L,Other losses - Impairment on investment in subsidiary,-4000000,0,308
+P&L,Other losses - Total,-5415406,0,308
+P&L,Other expenses,-9988622,-10733568,308
+P&L,Other income,35231337,39843744,308
+P&L,Profit before income tax and final tax,111112329,120864085,308
+P&L,Final taxes - levies,-2028474,-8405,308
+P&L,Profit before income tax,109083855,120855680,308
+P&L,Provision for taxation,-44352416,-47291413,308
+P&L,Profit for the year,64731439,73564267,308
+P&L,EPS basic and diluted (Rupees),45.49,51.69,308
+CashFlow,Cash generated from operations,159563509,93364120,310
+CashFlow,Finance cost paid,-7441365,-6501105,310
+CashFlow,Income taxes paid,-44508737,-49885586,310
+CashFlow,Levies paid,-1208555,-6346,310
+CashFlow,Net cash from operating activities,106404852,36971083,310
+CashFlow,Fixed capital expenditure,-12136171,-23579289,310
+CashFlow,Proceeds from disposal of PP&E,62341,73598,310
+CashFlow,Proceeds from disposal of investment property,855958,0,310
+CashFlow,Investment in Fauji Fresh n Freeze Limited,-5000000,0,310
+CashFlow,Investment in Agritech Limited,-10992049,-3858798,310
+CashFlow,Loan to Agritech Limited,0,-1318294,310
+CashFlow,Investment in OLIVE Technical Services,-80000,0,310
+CashFlow,Other investments - net,2145801,2178248,310
+CashFlow,Interest and profit received,3283618,1658708,310
+CashFlow,Dividend received,10828748,22417021,310
+CashFlow,Net cash from investing activities,-11031754,-2428806,310
+CashFlow,Long term financing draw-downs,20000000,30000000,310
+CashFlow,Long term financing repayments,-19178333,-6900000,310
+CashFlow,Repayment of lease liabilities,-18147,0,310
+CashFlow,Dividend paid,-24927681,-70255954,310
+CashFlow,Net cash from financing activities,-24124161,-47155954,310
+CashFlow,Net increase/decrease in cash,71248937,-12613677,310
+CashFlow,Effect of exchange rate changes,-249807,-792384,310
+CashFlow,Acquisition of cash pursuant to merger,25949860,0,310
+CashFlow,Cash and cash equivalents at beginning of year,79766068,176715058,310
+CashFlow,Cash and cash equivalents at end of year,176715058,163308997,310
